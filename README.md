@@ -90,7 +90,9 @@ Sample Arduino code is included to simulate temperature and respond to commands.
 
 ## 📸 Screenshots
 
-You can also include `.mov` preview (upload with GitHub's video support or convert to gif and embed).
+## 🎥 Local Video Demo
+
+[▶️ Watch Demo Video](./video/movie.mov)
 
 ---
 
